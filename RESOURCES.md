@@ -25,11 +25,14 @@
 - [Try Happy Horse AI](https://tryhappyhorseai.com/) — 在线体验
 - [tryhappyhorseai.com 50 prompts](https://tryhappyhorseai.com/blog/happy-horse-ai-prompts)
 
-### Kling 3.0（快手）
+### Kling 4.0 / Kling Image 4.0（快手 · 可灵）
+- [Kling 4.0 视频模型介绍](https://kling.ai/blog/kling40-kling-visual-realism-creative-control-introducing-storytelling) — 官方视频模型更新
+- [Kling Image 4.0 发布说明](https://kling.ai/release-note/release-notes/Kling_Image_4) — 官方图片模型更新
 - [可灵 AI 国内站](https://klingai.com/) — 国内官方平台
 - [Kling AI 国际站](https://kling.ai/) — 国际官方平台
 - [国内 MCP 指南](https://klingai.com/app/mcp/guide) · [国际 MCP 指南](https://kling.ai/app/mcp/guide) — 可灵官方 Agent 接入说明；插件端点分别为 `https://klingai.com/mcp/plugin` 和 `https://kling.ai/mcp/plugin`，使用 OAuth，生成消耗对应区服个人工作空间积分。
 - [国内完整插件包](https://www.npmjs.com/package/@klingai/plugin-cn) · [国际完整插件包](https://www.npmjs.com/package/@klingai/plugin-global) — 包含 `kling-plugin` CLI；旧版 `kling` CLI 为独立包。
+- [国内 CLI](https://www.npmjs.com/package/@klingai/cli-cn) · [国际 CLI](https://www.npmjs.com/package/@klingai/cli-global) — 两个区域包都提供 `kling` 命令；请按账号所属区域选择。
 - [可灵官方教程 · 知乎](https://zhuanlan.zhihu.com/p/714829166)
 
 ### Sora 2（OpenAI）
