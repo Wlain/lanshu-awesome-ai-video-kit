@@ -32,6 +32,8 @@
 - [Kling AI 国际站](https://kling.ai/) — 国际官方平台
 - [国内 MCP 指南](https://klingai.com/app/mcp/guide) · [国际 MCP 指南](https://kling.ai/app/mcp/guide) — 可灵官方 Agent 接入说明；插件端点分别为 `https://klingai.com/mcp/plugin` 和 `https://kling.ai/mcp/plugin`，使用 OAuth，生成消耗对应区服个人工作空间积分。
 - [国内完整插件包](https://www.npmjs.com/package/@klingai/plugin-cn) · [国际完整插件包](https://www.npmjs.com/package/@klingai/plugin-global) — 包含 `kling-plugin` CLI；旧版 `kling` CLI 为独立包。
+- [Claude 插件（中国）](https://github.com/klingai-tech/claude-plugin-cn) · [Claude 插件（国际）](https://github.com/klingai-tech/claude-plugin) · [Cursor 插件](https://github.com/klingai-tech/cursor-plugin) · [ChatGPT / Codex 插件](https://github.com/klingai-dev/chatgpt-plugin) — 官方宿主插件仓库。
+- [Gemini CLI 扩展（中国）](https://github.com/klingai-tech/claude-plugin-cn/blob/main/gemini-extension.json) · [Gemini CLI 扩展（国际）](https://github.com/klingai-tech/claude-plugin/blob/main/gemini-extension.json) — 官方 Gemini CLI manifests。
 - [国内 CLI](https://www.npmjs.com/package/@klingai/cli-cn) · [国际 CLI](https://www.npmjs.com/package/@klingai/cli-global) — 两个区域包都提供 `kling` 命令；请按账号所属区域选择。
 - [可灵官方教程 · 知乎](https://zhuanlan.zhihu.com/p/714829166)
 
